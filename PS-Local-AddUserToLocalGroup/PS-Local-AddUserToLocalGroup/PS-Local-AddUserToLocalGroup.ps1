@@ -7,4 +7,4 @@
 # AzureAD "AzureAD\Username@domain.com"
 # # KingSeifer21 21-12-2017 Last update 21-12-2017
 
-Add-LocalGroupMember -Group "administrators" -Member "type the user you want to join the Administrators group in here"
+Add-LocalGroupMember -Group "administrators" -Member "type the user you want to join the Administrators group in here","User column to add multiple entries if needed"
