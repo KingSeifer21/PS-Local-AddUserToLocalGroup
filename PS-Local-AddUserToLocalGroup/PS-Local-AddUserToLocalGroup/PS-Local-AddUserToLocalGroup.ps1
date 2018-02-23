@@ -1,6 +1,6 @@
 ﻿#
 # Add users to a local group
-# You can add users to a local group, this can be local users and or domain users and even Microsfot account\AzureAD Users
+# You can add users to a local group, this can be local users and or domain users and even Microsoft account\AzureAD Users
 # Local user "admin02"
 # Domain user "DOMAINNAME\Username"
 # MicrosoftAccount "MICROSOFTACCOUNT\username@outlook.com"
